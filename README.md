@@ -92,8 +92,4 @@ Repository Information:
 - Support authentication for higher API rate limits.
 - Export repository statistics to a CSV file for further analysis.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
