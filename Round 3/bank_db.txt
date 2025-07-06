@@ -1,0 +1,17 @@
+CustId    AccountNo   Name    balance    EncryptedPassword
+11         11011      Kumar     10000     ApipNbjm
+22         22022      Madhu     20000     Cboiioj  
+33         33033      Rahul     30000     dhasdf
+44         44044      Robin     40000     asdfa
+
+
+ 
+
+
+ 
+
+56     55056     hari      10000       bcdef
+ 
+
+57     55057     padu      10000       bcdef
+ 
